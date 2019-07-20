@@ -2,7 +2,7 @@ public class Book{
 
 private int bookId;
 private String title;
-private String aurthor;
+private String author;
 private float price;
 
 public void setBookID(int bookId){
@@ -19,5 +19,8 @@ public static void main(String args[])
 {
 System.out.println("hello sir");
 }
+public void setAuthor(String author)
+{
+this.author=author;
 a/lskdjf;lkdsajf
 }
